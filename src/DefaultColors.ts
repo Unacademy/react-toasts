@@ -48,6 +48,6 @@ export const DarkColors: IColor = {
   warning: {
     backgroundColor: "#f1c40f",
     borderColor: "#00000000",
-    color: "#000000",
+    color: "#ffffff",
   },
 };
