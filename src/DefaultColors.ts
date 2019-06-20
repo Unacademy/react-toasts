@@ -33,7 +33,7 @@ export const DarkColors: IColor = {
   error: {
     backgroundColor: "#e74c3c",
     borderColor: "#00000000",
-    color: "#000000",
+    color: "#ffffff",
   },
   info: {
     backgroundColor: "#ecf0f1",
